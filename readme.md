@@ -1,6 +1,26 @@
 ## ROADMAP 
 
+GIT 
+ - install git 
+ - git init
+ - login on github and then install gh in terminal
+  - git config user.name "Emma Paris"
+  - git config user.email "eparis@atlassian.com"
+ - git branch
+ - git checkout
+ - git add
+ - git commit
+ - git remote add origin link
+ - git remote -v
+ - git push origin branch
+
 Setting up our environment to work
+ - Python
+ - VS Code
+   - Python extension
+ - Ranorex Locator
+ - Chrome driver
+ - Selenium library
 
 Understand HTML 
 
