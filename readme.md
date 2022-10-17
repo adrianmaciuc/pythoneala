@@ -72,7 +72,7 @@ Framework - understanding Page Object Model / Pattern
 
 Creating methods for our pages
 
-
+ia de aici 
 
 eu sunt Ionut
 
