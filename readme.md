@@ -71,3 +71,7 @@ Framework - understanding config files (conftest) and driver instantiation
 Framework - understanding Page Object Model / Pattern
 
 Creating methods for our pages
+
+
+
+am aparut si eu pe aici 
